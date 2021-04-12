@@ -9,10 +9,12 @@ Project language - [Kotlin](https://kotlinlang.org/). Database versioning - [Fly
 ### Used functionality from JPA Buddy plugin
 
 * Create entity
-* Create entity attribute
+* [Create entity attribute](https://twitter.com/JPABuddy/status/1361328892385120263)
 * Create Spring data repository
-* Create repository method (query including)
+* [Create repository method](https://twitter.com/JPABuddy/status/1359132443266084865) (query including)
 * Automatic generation of Flyway versioned migration: comparing JPA model to database
+![image](https://user-images.githubusercontent.com/8051197/114355289-576fdc80-9b80-11eb-8cc5-241bd57249ef.png)
+
 
 [Read more](https://plugins.jetbrains.com/plugin/15075-jpa-buddy/features) about the JPA Buddy plugin. 
 For your feedback, ideas and feature requests feel free to [join our Discord server](https://discord.gg/zUsVXYGsQr).
