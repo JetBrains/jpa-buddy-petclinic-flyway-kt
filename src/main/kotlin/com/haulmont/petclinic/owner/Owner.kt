@@ -1,10 +1,7 @@
 package com.haulmont.petclinic.owner
 
 import com.haulmont.petclinic.model.Person
-import org.springframework.beans.support.MutableSortDefinition
-import org.springframework.beans.support.PropertyComparator
 import org.springframework.core.style.ToStringCreator
-import java.util.*
 import javax.persistence.*
 import javax.validation.constraints.Digits
 import javax.validation.constraints.NotEmpty

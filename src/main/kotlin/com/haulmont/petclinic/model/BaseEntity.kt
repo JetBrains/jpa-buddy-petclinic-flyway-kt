@@ -1,6 +1,5 @@
 package com.haulmont.petclinic.model
 
-import org.springframework.jdbc.core.JdbcTemplate
 import java.io.Serializable
 import javax.persistence.*
 import kotlin.reflect.KClass

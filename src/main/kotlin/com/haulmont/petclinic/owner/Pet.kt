@@ -4,9 +4,7 @@ import com.haulmont.petclinic.model.NamedEntity
 import com.haulmont.petclinic.visit.Visit
 import org.springframework.format.annotation.DateTimeFormat
 import java.time.LocalDate
-import java.util.*
 import javax.persistence.*
-import kotlin.jvm.Transient
 
 @Table(name = "pets")
 @Entity

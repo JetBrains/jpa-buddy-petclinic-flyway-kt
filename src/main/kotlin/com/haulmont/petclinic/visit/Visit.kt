@@ -4,7 +4,6 @@ import com.haulmont.petclinic.model.BaseEntity
 import org.springframework.format.annotation.DateTimeFormat
 import java.time.LocalDate
 import javax.persistence.Column
-import javax.persistence.Convert
 import javax.persistence.Entity
 import javax.persistence.Table
 import javax.validation.constraints.NotEmpty
