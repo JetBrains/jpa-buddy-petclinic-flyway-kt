@@ -6,7 +6,7 @@ Entity model and data repositories are taken from the original [Spring PetClinic
 
 Project language - [Kotlin](https://kotlinlang.org/). Database versioning - [Flyway](https://flywaydb.org/).
 
-###Used functionality from JPA Buddy plugin
+### Used functionality from JPA Buddy plugin
 
 * Create entity
 * Create entity attribute
