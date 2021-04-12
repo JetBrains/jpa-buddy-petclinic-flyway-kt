@@ -1,22 +1,21 @@
 # Spring PetClinic on Kotlin with Flyway
 
-### Note
-The application was created to test and demonstrate the functionality of [JPA Buddy](https://www.jpa-buddy.com/) plugin. 
-Entity model and data repositories are taken from the original [Spring PetClinic Sample Application](https://github.com/spring-projects/spring-petclinic).
+The application was created to test and demonstrate the features of [JPA Buddy](https://www.jpa-buddy.com/) – a plugin for IntelliJ IDEA designed to make the use of JPA easier.
+The entity model and data repositories are taken from the original [Spring PetClinic Sample Application](https://github.com/spring-projects/spring-petclinic).
 
-Project language - [Kotlin](https://kotlinlang.org/). Database versioning - [Flyway](https://flywaydb.org/).
+Project language – [Kotlin](https://kotlinlang.org/). Database versioning – [Flyway](https://flywaydb.org/).
 
-### Used functionality from JPA Buddy plugin
+### Features of JPA Buddy used
 
-* Create entity
-* [Create entity attribute](https://twitter.com/JPABuddy/status/1361328892385120263)
-* Create Spring data repository
-* [Create repository method](https://twitter.com/JPABuddy/status/1359132443266084865) (query including)
-* Automatic generation of Flyway versioned migration: comparing JPA model to database
+* Entity creation
+* [Entity attribute creation](https://twitter.com/JPABuddy/status/1361328892385120263)
+* Spring Data repository generation
+* [Repository method generation](https://twitter.com/JPABuddy/status/1359132443266084865) (including @Query)
+* Automatic generation of Flyway migration scripts by comparing the JPA model to the database
 ![image](https://user-images.githubusercontent.com/8051197/114355289-576fdc80-9b80-11eb-8cc5-241bd57249ef.png)
 
 
-[Read more](https://plugins.jetbrains.com/plugin/15075-jpa-buddy/features) about the JPA Buddy plugin. 
+[Read more](https://plugins.jetbrains.com/plugin/15075-jpa-buddy/features) about the JPA Buddy plugin.
 For your feedback, ideas and feature requests feel free to [join our Discord server](https://discord.gg/zUsVXYGsQr).
 
 **Find us at:**
