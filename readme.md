@@ -1,3 +1,5 @@
+[![JetBrains team project](https://jb.gg/badges/team.svg)](https://confluence.jetbrains.com/display/ALL/JetBrains+on+GitHub)
+
 # Spring PetClinic on Kotlin with Flyway
 
 The application was created to test and demonstrate the features of [JPA Buddy](https://www.jpa-buddy.com/) – a plugin for IntelliJ IDEA designed to make the use of JPA easier.
